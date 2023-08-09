@@ -1,1 +1,3 @@
+PySide6>=6.5.2
+
 empire_commons@https://github.com/Tombmyst-Empire/empire-commons/archive/refs/heads/master.zip
